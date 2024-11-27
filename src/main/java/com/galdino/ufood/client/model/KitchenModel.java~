@@ -1,0 +1,6 @@
+package com.galdino.ufood.client.model;
+
+public class KitchenModel {
+    private Long id;
+    private String name;
+}
